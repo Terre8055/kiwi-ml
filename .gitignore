@@ -1,0 +1,5 @@
+env
+base
+.ipynb*
+data
+*.csv
